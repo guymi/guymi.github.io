@@ -1,0 +1,36 @@
+---
+import type { ReadingList } from "@lib/reading-lists";
+import { readingListHref } from "@lib/reading-lists";
+
+interface Props {
+  list: ReadingList;
+}
+
+const { list } = Astro.props;
+const { data } = list;
+---
+
+<article class="reading-card">
+  <div class="reading-card__body">
+    <h3>{data.title}</h3>
+    {data.tagline && <p class="reading-card__tagline">{data.tagline}</p>}
+    <p class="reading-card__description">{data.description}</p>
+    <dl class="reading-card__meta">
+      {data.duration && (
+        <div>
+          <dt>Format</dt>
+          <dd>{data.duration}</dd>
+        </div>
+      )}
+      {data.level && (
+        <div>
+          <dt>Level</dt>
+          <dd>{data.level}</dd>
+        </div>
+      )}
+    </dl>
+  </div>
+  <footer class="reading-card__footer">
+    <a class="reading-card__cta" href={readingListHref(list)}>View syllabus →</a>
+  </footer>
+</article>

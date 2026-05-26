@@ -1,0 +1,156 @@
+{
+  "generated_at": "2026-05-26",
+  "count": 25,
+  "engagements": [
+    {
+      "company": "QbiqAILtd",
+      "start": "2026-02-01",
+      "end": "2026-04-01",
+      "months": 2
+    },
+    {
+      "company": "Waterfall",
+      "start": "2025-09-01",
+      "end": "2026-01-01",
+      "months": 4
+    },
+    {
+      "company": "Zoominfo",
+      "start": "2023-03-01",
+      "end": "2025-07-01",
+      "months": 28
+    },
+    {
+      "company": "Snappy",
+      "start": "2022-10-01",
+      "end": "2023-01-01",
+      "months": 3
+    },
+    {
+      "company": "Lynx.md",
+      "start": "2021-12-01",
+      "end": "2022-09-01",
+      "months": 9
+    },
+    {
+      "company": "SentinelOne",
+      "start": "2019-12-01",
+      "end": "2021-11-01",
+      "months": 23
+    },
+    {
+      "company": "HarelInsurance",
+      "start": "2018-08-01",
+      "end": "2018-10-01",
+      "months": 2
+    },
+    {
+      "company": "HarelInsurance",
+      "start": "2017-09-01",
+      "end": "2017-09-01",
+      "months": 1
+    },
+    {
+      "company": "SAP",
+      "start": "2016-09-01",
+      "end": "2016-10-01",
+      "months": 1
+    },
+    {
+      "company": "PerfectoMobile",
+      "start": "2015-07-01",
+      "end": "2015-07-01",
+      "months": 1
+    },
+    {
+      "company": "HarelInsurance",
+      "start": "2015-04-01",
+      "end": "2015-04-01",
+      "months": 1
+    },
+    {
+      "company": "ThomsonReuters",
+      "start": "2015-01-01",
+      "end": "2019-11-01",
+      "months": 58
+    },
+    {
+      "company": "HarelInsurance",
+      "start": "2015-01-01",
+      "end": "2015-01-01",
+      "months": 1
+    },
+    {
+      "company": "Wochit",
+      "start": "2015-01-01",
+      "end": "2015-01-01",
+      "months": 1
+    },
+    {
+      "company": "OpenU",
+      "start": "2014-12-01",
+      "end": "2015-01-01",
+      "months": 1
+    },
+    {
+      "company": "Sapiens",
+      "start": "2014-10-01",
+      "end": "2014-12-01",
+      "months": 2
+    },
+    {
+      "company": "HarelInsurance",
+      "start": "2014-08-01",
+      "end": "2014-10-01",
+      "months": 2
+    },
+    {
+      "company": "PerfectoMobile",
+      "start": "2013-12-01",
+      "end": "2014-06-01",
+      "months": 6
+    },
+    {
+      "company": "DBGlobe",
+      "start": "2013-11-01",
+      "end": "2014-02-01",
+      "months": 3
+    },
+    {
+      "company": "ContextStream",
+      "start": "2013-08-01",
+      "end": "2013-09-01",
+      "months": 1
+    },
+    {
+      "company": "Paypal",
+      "start": "2013-04-01",
+      "end": "2014-07-01",
+      "months": 15
+    },
+    {
+      "company": "Mentor-CP",
+      "start": "2013-04-01",
+      "end": "2013-07-01",
+      "months": 3
+    },
+    {
+      "company": "Mentor-BB",
+      "start": "2013-03-01",
+      "end": "2013-04-01",
+      "months": 1
+    },
+    {
+      "company": "Topspinsec",
+      "start": "2013-03-01",
+      "end": "2013-04-01",
+      "months": 1
+    },
+    {
+      "company": "Retalix",
+      "start": "2013-02-01",
+      "end": "2013-08-01",
+      "months": 6
+    }
+  ]
+}
